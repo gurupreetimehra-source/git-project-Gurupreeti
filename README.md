@@ -4,3 +4,7 @@
 
 I am Gurupreeti Mehra,right now studying at Upgrad School of Technology(UGSOT)
 
+## Skills
+-Communication
+-Problem Saving
+-Basic Git
